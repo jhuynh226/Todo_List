@@ -16,7 +16,7 @@ html {
 
 body {
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 .todo_list_text {
