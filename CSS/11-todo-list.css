@@ -5,6 +5,20 @@ body {
   margin-left: 25px;
 }
 
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
 .todo_list_text {
   font-weight: bold;
   font-size: 25px;
