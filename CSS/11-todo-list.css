@@ -12,6 +12,7 @@ html, body {
 html {
     display: table;
     margin: auto;
+    margin-top: 30px;
 }
 
 body {
@@ -21,7 +22,7 @@ body {
 
 .todo_list_text {
   font-weight: bold;
-  font-size: 25px;
+  font-size: 40px;
 }
 
 .todo_grid, 
